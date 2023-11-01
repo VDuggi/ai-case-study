@@ -22,7 +22,7 @@ Competitors: Tempus's major competitors include Foundation Medicine, Guardant He
 ## Results
 Business impact: Tempus has tested over 1 million patients to date and has helped to enroll over 10,000 patients in clinical trials for targeted therapies. The company's platform is also being used by pharmaceutical companies to develop new drugs and by healthcare providers to make more informed treatment decisions.
 Core metrics: Some of the core metrics that companies in the field of precision medicine use to measure success include the number of patients tested, the number of actionable insights generated, and clinical trial enrollment. Tempus is performing well on all of these metrics.
-Relative performance: Tempus is the leader in the field of precision medicine in terms of the number of patients tested and the number of actionable insights generated. The company is also ahead of its competitors in terms of clinical trial enrollment. "Tempus is changing precision medicine by making it more accessible, affordable, and actionable. We are doing this by using AI to analyze large amounts of genomic and clinical data to identify insights that can help clinicians make better treatment decisions for their patients." -Eric Lefkosky, co-founder and CEO of Tempus. Source:Tempus website, "About us" page. 
+Relative performance: Tempus is the leader in the field of precision medicine in terms of the number of patients tested and the number of actionable insights generated. The company is also ahead of its competitors in terms of clinical trial enrollment. > "Tempus is changing precision medicine by making it more accessible, affordable, and actionable. We are doing this by using AI to analyze large amounts of genomic and clinical data to identify insights that can help clinicians make better treatment decisions for their patients." -Eric Lefkosky, co-founder and CEO of Tempus. Source:Tempus website, "About us" page. 
 
 ## Recommendations
 If I were to advise Tempus, I would recommend that the company expand its focus beyond cancer to offer precision medicine solutions for other diseases, such as neuropsychiatric disorders and infectious diseases. I would also recommend that the company develop and offer AI-powered tools to help pharmaceutical companies accelerate the drug discovery and development process.
@@ -30,7 +30,7 @@ I believe that offering these additional products and services would benefit Tem
 These additional products and services would utilize the same technologies that Tempus currently uses, such as artificial intelligence, machine learning, and cloud computing. These technologies are appropriate for Tempus's solutions because they allow the company to analyze large amounts of data quickly and efficiently. This is essential for developing and delivering precision medicine solutions.
 
 ## Sources Cited
-Tempus website: https://www.tempus.com/ https:/
+Tempus website: https://www.tempus.com/ https:/  
 Tempus company blog: https://startuptalky.com/tempus-success-story/
 Tempus press releases: https://www.tempus.com/news/pr/
 Industry reports on precision medicine: https://www.biospace.com/article/precision-medicine-market-size-share-report-trends-growth-2022-2030/
