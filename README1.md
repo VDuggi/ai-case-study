@@ -31,7 +31,7 @@ I believe that offering these additional products and services would benefit Tem
 These additional products and services would utilize the same technologies that Tempus currently uses, such as artificial intelligence, machine learning, and cloud computing. These technologies are appropriate for Tempus's solutions because they allow the company to analyze large amounts of data quickly and efficiently. This is essential for developing and delivering precision medicine solutions.
 
 ## Sources Cited
-Tempus website: https://www.tempus.com/ https:/  
+Tempus website: https://www.tempus.com/ 
 Tempus company blog: https://startuptalky.com/tempus-success-story/
 Tempus press releases: https://www.tempus.com/news/pr/
 Industry reports on precision medicine: https://www.biospace.com/article/precision-medicine-market-size-share-report-trends-growth-2022-2030/
