@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Name of company: Tempus
+Name of company: **Tempus**
 Founded: 2015
 Founder: Eric Lefkofsky
 Idea for the company: The founders were inspired to start Tempus after seeing the challenges that families face when navigating cancer care. They wanted to create a company that could use technology to make precision medicine more accessible and affordable for everyone.
