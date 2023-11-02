@@ -1,4 +1,4 @@
-# TITLE: A Review of Tempus
+# A Review of Tempus
 
 ## Overview and Origin
 
