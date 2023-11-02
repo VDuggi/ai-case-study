@@ -8,13 +8,11 @@ Founder: Eric Lefkofsky
 Idea for the company: Eric Lefkofsky founded Tempus in 2015 shortly after finding out his wife was diagnosed with breast cancer. The founders were inspired to start Tempus after seeing the challenges that families face when navigating cancer care. They wanted to create a company that could use technology to make precision medicine more accessible and affordable for everyone.  
 Funding: Tempus has raised over $1 billion in funding from investors such as SoftBank, Fidelity Investments, and T. Rowe Price.
 
-```
 ## Business Activities
 Problem solved: Tempus is solving the problem of making precision medicine more accessible and affordable for everyone.
 Intended customer: Tempus's intended customers are cancer patients and their families. The market size for this set of customers is estimated to be over $100 billion.
 Solution: Tempus offers a platform that uses artificial intelligence to analyze genomic data and provide insights that can help clinicians make better treatment decisions for their patients.
 Technologies used: Tempus uses a variety of technologies, including artificial intelligence, machine learning, and cloud computing.
-```
 
 ## Landscape
 Field: Tempus is in the field of precision medicine. Precision medicine is a new and rapidly growing field that uses genetic and molecular data to tailor treatments to individual patients.
@@ -32,12 +30,13 @@ If I were to advise Tempus, I would recommend that the company expand its focus 
 I believe that offering these additional products and services would benefit Tempus in several ways, including generating new revenue streams, expanding the company's customer base, collecting valuable data, and strengthening the company's brand reputation.
 These additional products and services would utilize the same technologies that Tempus currently uses, such as artificial intelligence, machine learning, and cloud computing. These technologies are appropriate for Tempus's solutions because they allow the company to analyze large amounts of data quickly and efficiently. This is essential for developing and delivering precision medicine solutions.
 
+```
 ## Sources Cited
 Tempus website: https://www.tempus.com/ 
 Tempus company blog: https://startuptalky.com/tempus-success-story/
 Tempus press releases: https://www.tempus.com/news/pr/
 Industry reports on precision medicine: https://www.biospace.com/article/precision-medicine-market-size-share-report-trends-growth-2022-2030/
-
+```
 
 
 
