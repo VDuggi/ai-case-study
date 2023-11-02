@@ -5,7 +5,7 @@
 Name of company: **Tempus**
 Founded: 2015
 Founder: Eric Lefkofsky
-Idea for the company: The founders were inspired to start Tempus after seeing the challenges that families face when navigating cancer care. They wanted to create a company that could use technology to make precision medicine more accessible and affordable for everyone.
+Idea for the company: Eric Lefkofsky founded Tempus in 2015 shortly after finding out his wife was diagnosed with breast cancer. The founders were inspired to start Tempus after seeing the challenges that families face when navigating cancer care. They wanted to create a company that could use technology to make precision medicine more accessible and affordable for everyone.  
 Funding: Tempus has raised over $1 billion in funding from investors such as SoftBank, Fidelity Investments, and T. Rowe Price.
 
 ## Business Activities
