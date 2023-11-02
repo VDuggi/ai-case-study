@@ -8,11 +8,13 @@ Founder: Eric Lefkofsky
 Idea for the company: Eric Lefkofsky founded Tempus in 2015 shortly after finding out his wife was diagnosed with breast cancer. The founders were inspired to start Tempus after seeing the challenges that families face when navigating cancer care. They wanted to create a company that could use technology to make precision medicine more accessible and affordable for everyone.  
 Funding: Tempus has raised over $1 billion in funding from investors such as SoftBank, Fidelity Investments, and T. Rowe Price.
 
+```
 ## Business Activities
 Problem solved: Tempus is solving the problem of making precision medicine more accessible and affordable for everyone.
 Intended customer: Tempus's intended customers are cancer patients and their families. The market size for this set of customers is estimated to be over $100 billion.
 Solution: Tempus offers a platform that uses artificial intelligence to analyze genomic data and provide insights that can help clinicians make better treatment decisions for their patients.
 Technologies used: Tempus uses a variety of technologies, including artificial intelligence, machine learning, and cloud computing.
+```
 
 ## Landscape
 Field: Tempus is in the field of precision medicine. Precision medicine is a new and rapidly growing field that uses genetic and molecular data to tailor treatments to individual patients.
